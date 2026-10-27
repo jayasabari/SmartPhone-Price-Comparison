@@ -191,22 +191,6 @@ The report (`PowerBI/smartphone_price_comparision.pbix`) has **4 pages**, each w
 
 ---
 
-## 💡 Key Insights
-
-All figures are calculated from the dataset (5,000 records, 1,255,453 total units sold).
-
-- **Overall:** average selling price is **₹43,225**, average discount is **12.47 %**, and average customer rating is **4.09**.
-- **Top brand:** **Samsung** sells the most units (**224,755, 17.90 %**), followed by **Xiaomi** (177,321, 14.12 %) and **Apple** (147,893, 11.78 %). **Nothing** is lowest at 63,552 units (5.06 %).
-- **Price positioning:** **Apple** has the highest average selling price (**₹78,810**), then **Google** (₹72,313). **Realme** has the lowest (₹26,358), followed by Nothing (₹29,693) and Xiaomi (₹29,949).
-- **Operating system:** Android accounts for **1,107,560 units (88.2 %)** and iOS for 147,893 (11.8 %); the average iOS price (₹78,810) is roughly twice the Android average (₹38,519).
-- **Cities:** **Madurai** leads with 136,001 units; **Delhi** is lowest at 113,148 units.
-- **Retailers:** **Brand Store** (215,908 units) is slightly ahead of Local Retailer (213,997) and Reliance Digital (213,949); **Amazon India** is lowest (202,107). Differences between channels are small.
-- **Launch year:** phones launched in **2024** account for the most units (405,214, 32.3 %), followed by 2025 (366,838).
-- **RAM:** **8 GB** phones sell the most (485,885 units, 38.7 %), followed by 12 GB (306,275).
-- **Ratings:** brand averages sit in a narrow band (**4.05 – 4.13**); Google and Nothing are highest at 4.13 and Apple is lowest at 4.05.
-- **Discount:** average discount by brand ranges only from 11.99 % (Realme) to 12.99 % (OnePlus), so discounting is similar across brands.
-- **Price drivers:** selling price tracks MRP almost perfectly (correlation ≈ 1.00) and shows almost no linear relationship with customer rating (≈ 0.00) or discount percent (≈ 0.03) in this dataset.
-
 **Recommendations (based on the above)**
 
 - Stock depth on Samsung, Xiaomi and Apple models, and on 8 GB and 12 GB variants, given where unit volume concentrates.
